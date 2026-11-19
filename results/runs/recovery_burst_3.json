@@ -1,0 +1,22 @@
+{
+  "session": 764954757,
+  "count": 500,
+  "rate": 50.0,
+  "total_sent": 526,
+  "retransmissions": 26,
+  "timeout_retx": 3,
+  "nack_retx": 23,
+  "first_attempt_loss_pct": 4.6,
+  "acked": 500,
+  "gave_up": [],
+  "received": 500,
+  "missing": [],
+  "final_loss_pct": 0.0,
+  "elapsed_s": 9.981,
+  "max_ack_gap_s": 0.14,
+  "gap_start": 1794764961.1980102,
+  "gap_end": 1794764961.3382406,
+  "start_wall": 1794764954.7573607,
+  "end_wall": 1794764964.7388003,
+  "report_received": true
+}

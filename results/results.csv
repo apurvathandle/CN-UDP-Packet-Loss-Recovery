@@ -1,0 +1,2 @@
+mode,scenario,run,count,rate,outage_s,total_sent,retransmissions,nack_retx,first_attempt_loss_pct,final_loss_pct,missing_count,max_ack_gap_s,elapsed_s,ctrl_detect_ms,ctrl_reroute_ms
+sdn,long,1,800,50.0,10,801,1,1,0.12,0.0,0,0.041,15.981,14.4,0.0

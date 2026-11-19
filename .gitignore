@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+venv/
+
+# Experiment logs and old results
+results/*.log
+results/runs/*.log
+results/results_old_*.csv
